@@ -1,6 +1,6 @@
 # Tipagem
 
-As características de tipagem se referem a como uma linguagem trata os tipos de dados (inteiros, strings, booleanos etc.)
+As características de tipagem se referem a como uma linguagem de programação trata os tipos de dados (inteiros, strings, booleanos etc.)
 
 Abaixo alguns exemplos de algumas linguagens. 
 
